@@ -29,10 +29,13 @@ class School
   end 
   
   def sort
+<<<<<<< HEAD
     roster.each do |grade_level, stud_array|
       stud_array.sort!
     end 
       
+=======
+>>>>>>> 94c3ba38eebf831ee86e5b840d52cd30003a987b
   end 
   
 end
